@@ -1,0 +1,5 @@
+streamlit==1.55.0
+plotly==6.6.0
+pandas==2.3.3
+pymssql==2.3.13
+pyarrow==23.0.1
